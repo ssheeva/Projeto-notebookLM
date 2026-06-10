@@ -18,4 +18,6 @@ O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de
 
 * [BTG - Educação Financeira](https://content.btgpactual.com/blog/financas/educacao-financeira-o-que-e-importancia-livros-e-dicas)
 
-* []
+* [Itaú- Educação Financeira Hábitos Simples](https://www.itau.com.br/contas/folha-de-pagamentos/poupar-pra-render/blog/educacao-financeira-habitos-simples)
+
+*[FIA Business School: Educação financeira: o que é e como colocar em prática](https://fia.com.br/blog/educacao-financeira/)
