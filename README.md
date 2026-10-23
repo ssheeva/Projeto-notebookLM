@@ -2,6 +2,8 @@
 
 O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório. 
 
+# https://notebook.google.com/notebook/0e7ea107-0313-4ea6-85b6-d1db29367b60
+
 ## Educação Financeira: Gestão de Finanças Pessoais 💸 💰
 ![Porquinho](https://abefin.org.br/wp-content/uploads/2024/03/close-up-education-economy-objects-scaled.jpg)
 
